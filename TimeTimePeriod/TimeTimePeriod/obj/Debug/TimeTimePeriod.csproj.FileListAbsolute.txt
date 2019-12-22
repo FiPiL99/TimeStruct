@@ -1,0 +1,5 @@
+C:\Users\fipis\source\repos\TimeTimePeriod\TimeTimePeriod\bin\Debug\TimeTimePeriod.dll
+C:\Users\fipis\source\repos\TimeTimePeriod\TimeTimePeriod\bin\Debug\TimeTimePeriod.pdb
+C:\Users\fipis\source\repos\TimeTimePeriod\TimeTimePeriod\obj\Debug\TimeTimePeriod.csprojAssemblyReference.cache
+C:\Users\fipis\source\repos\TimeTimePeriod\TimeTimePeriod\obj\Debug\TimeTimePeriod.dll
+C:\Users\fipis\source\repos\TimeTimePeriod\TimeTimePeriod\obj\Debug\TimeTimePeriod.pdb
